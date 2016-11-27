@@ -1,0 +1,6 @@
+framework module Pods_NissanComponents_Example {
+  umbrella header "Pods-NissanComponents_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

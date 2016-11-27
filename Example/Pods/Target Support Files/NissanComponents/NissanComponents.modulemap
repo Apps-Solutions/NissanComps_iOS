@@ -1,0 +1,6 @@
+framework module NissanComponents {
+  umbrella header "NissanComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - NissanComponents (0.1.0)
+
+DEPENDENCIES:
+  - NissanComponents (from `../`)
+
+EXTERNAL SOURCES:
+  NissanComponents:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NissanComponents: e624029c287674816b0f9c2786ac9c6655c94467
+
+PODFILE CHECKSUM: 9a31b77ec50792e5ff2fcfac17a568f8b94f4286
+
+COCOAPODS: 1.1.1
