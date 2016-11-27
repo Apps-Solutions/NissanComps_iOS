@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NissanComponents_Example' do
+  pod 'NissanComponents', :path => '../'
+
+  target 'NissanComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
